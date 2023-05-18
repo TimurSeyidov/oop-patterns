@@ -39,7 +39,7 @@
 *   Изначально неизвестны детали структуры данных.
 
 ### Примеры кода
-
+**Input**
 ```Python    
     Colors = ["red", "black", "green"]
     
@@ -52,15 +52,35 @@
     exept StopIterations:
         print("другие элементы отсутствуют")
     
+```
+**Output**
+```Python
+red
+black
+green
 
-    
-    Colors = ["red", "black", "green"]
-    
-    ColorsIters = iter(colors)
-    
-    While True:
-        try:
-            print(next(ColorsIter))
-        exept StopIterations:
-            break
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+```
+**Input**
+```Python
+Colors = ["red", "black", "green"]
+
+ColorsIter = iter(Colors)
+
+While True:
+    try:
+        print(next(ColorsIter))
+    except StopIteration:
+        break
+```
+**Output**
+```Python
+red
+black
+green
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
 ```
