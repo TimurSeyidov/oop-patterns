@@ -13,7 +13,8 @@
 
 ![Диаграмма работы программы без посредника и с ним](https://sbcode.net/python/img/mediator_concept.svg)
 
-[![Диаграмма работы посредника](https://i.postimg.cc/CLpJhrx3/2023-05-18-235616529.png)](https://postimg.cc/G9zvzQYK)
+
+![Диаграмма работы посредника](https://sbcode.net/python/img/mediator_example.svg)
 
 ## Пример кода
 
