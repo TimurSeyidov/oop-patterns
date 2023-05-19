@@ -18,3 +18,4 @@
 Недостатки:
 
 затруднено добавление новых классов, поскольку нужно обновлять иерархию посетителя и его сыновей
+![VisitorDiagram svg](https://github.com/TimurSeyidov/oop-patterns/assets/98407097/b2acff2f-309d-494f-832b-ab507c017d5a)
