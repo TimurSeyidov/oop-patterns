@@ -43,13 +43,13 @@
 ```Python    
     Colors = ["red", "black", "green"]
     
-    ColorsIters = iter(colors)
+    ColorsIter = iter(Colors)
     try:
         print(next(ColorsIter))
         print(next(ColorsIter))
         print(next(ColorsIter))
         
-    exept StopIterations:
+    except StopIterations:
         print("другие элементы отсутствуют")
     
 ```
