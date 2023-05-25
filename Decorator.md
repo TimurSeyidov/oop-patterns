@@ -6,4 +6,5 @@
 <h1 class="code-line" data-line-start=5 data-line-end=6 ><a id="__Flyweight_5"></a>Паттерн Декоратор (Decorator)</h1>
 <hr>
 <p class="has-line-data" data-line-start="8" data-line-end="10"><strong>Декоратор</strong> —  это структурный паттерн. Цель которого – предоставление новых функциональных возможностей классам и объектам во время выполнения кода. Чаще всего декоратор представляет собой абстрактный класс, принимающий в конструкторе объект, функциональность которого мы хотим расширить<br></p>
+<p> Decorator(Декоратор)
 <img src="https://pythonru.com/wp-content/uploads/2020/09/rukovodstvo-po-dekoratoram-python.png"></p>
