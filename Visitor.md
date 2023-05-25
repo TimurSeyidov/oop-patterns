@@ -21,6 +21,7 @@
 
 3. Часто добавляются новые операции над структурой.
 
+
 ![image](https://github.com/TimurSeyidov/oop-patterns/assets/98407097/ab0e3a4b-5d87-4b09-a460-5dd83970f482)
 
 ### Преимущества:
