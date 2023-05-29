@@ -16,8 +16,6 @@
 
 **Фасад** — это структурный паттерн проектирования, который предоставляет простой интерфейс к сложной системе классов, библиотеке или фреймворку.
 
-Facade(Фасад) ![]([https://pythonru.com/wp-content/uploads/2020/09/rukovodstvo-po-dekoratoram-python.png](https://media.geeksforgeeks.org/wp-content/uploads/20200203095945/Facade-Method.png])
-
 Проблема
 --------
 
