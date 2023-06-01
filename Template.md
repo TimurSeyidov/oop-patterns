@@ -88,6 +88,7 @@ Skip conversion
 `csv` was processed
 ```
 **Ниже приведена диаграмма классов для шаблонного метода**
+
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20200218140413/Untitled-Diagram74.png)
 
 **Преимущества**
